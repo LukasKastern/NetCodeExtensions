@@ -11,3 +11,4 @@ Hash Based Ghost Lookup
 Systems/Components allowing clients to take authority over physic entities <br>
 Currently handles basic interpolation and runtime authority changes
 
+### Supported Version: 0.4.0-preview.1
