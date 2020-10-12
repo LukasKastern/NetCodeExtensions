@@ -8,6 +8,6 @@ Extensions for Unity's NetCode package
 Hash Based Ghost Lookup
 
 ### Owner Controlled Physics
-Systems/Components allowing clients to take authority over physic entities
-Currently handles Interpolation and Authority/Controller changes
+Systems/Components allowing clients to take authority over physic entities <br>
+Currently handles basic interpolation and runtime authority changes
 
