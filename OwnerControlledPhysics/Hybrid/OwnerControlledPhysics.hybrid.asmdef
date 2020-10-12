@@ -1,0 +1,19 @@
+{
+    "name": "OwnerControlledPhysics.Hybrid",
+    "references": [
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:e00140a815de944528348782854abe39",
+        "GUID:5af3e8385edfdb54abcc50d0cf4b2c3a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

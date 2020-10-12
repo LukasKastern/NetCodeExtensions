@@ -1,0 +1,15 @@
+{
+  "name": "com.onedawnstudios.netcodeextensions",
+  "displayName": "NetCode Extensions",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "unityRelease": "1f13",
+  "dependencies": {
+  },
+  "description": "Extensions for the Entities based NetCode package",
+  "keywords": [
+    "dots",
+    "unity",
+    "netcode"
+]
+}
